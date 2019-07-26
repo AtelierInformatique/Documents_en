@@ -1,1 +1,1 @@
-For any question about the code or Python, contact me at dorian.vandamme@umontreal.ca
+For any question about Python or computer science, contact me at dorian.vandamme@umontreal.ca
